@@ -1,10 +1,14 @@
-# ニコ生情報（仮）
+# ニコニコ生放送
 ## 消えた反物質の謎を追う「ベル・ツー」測定器、世界最強の粒子加速器といよいよ合体！？
+### 放送日時：4月11日（火）9:00～16:00頃まで（事情により早く放送終了することあり）　
+茨城県つくば市にある研究施設・高エネ研(KEK)で行われているBelle II (ベル・ツー)実験。
+最強加速器がビームが生み出す素粒子をつかまえる1500トンの巨大測定器を
+ビーム衝突点までゆーっくり移動する歴史的作業を、豪華ゲストと共に現場から生中継します。
 
 # Belle II （ベル・ツー）測定器
-## 
+## 縦・横・高さが8メートル、総重量1500トンの巨大なBelle II測定器が、ビーム衝突から生まれる様々な素粒子を検出します。
 
-<!--![](http://test.belle2.jp/wp-content/uploads/2016/06/detector_vertical_v2.png)-->
+![](http://test.belle2.jp/wp-content/uploads/2016/06/detector_vertical_v2.png)
 [![](http://img.youtube.com/vi/7b4m5V1TWCk/0.jpg)](https://www.youtube.com/watch?v=7b4m5V1TWCk)
 
 
