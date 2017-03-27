@@ -14,6 +14,9 @@
 - 15:00~  
 
 ### ゲスト出演者(予定)
+-
+- 
+- 
 - 
 
 ### 司会
@@ -28,7 +31,9 @@
 ![](http://test.belle2.jp/wp-content/uploads/2016/06/detector_vertical_v2.png)
 
 世界中の素粒子物理学者が700人以上集まり、力を合わせて巨大な測定器を作っています。
-![](https://pbs.twimg.com/media/C6dQRTcU0AAescd.jpg)
+<!--![](https://pbs.twimg.com/media/C6dQRTcU0AAescd.jpg)-->
+![](http://belle2pb.kek.jp/common/images/b2gm10b.jpg)
+
 
 # Belle II 実験の紹介ビデオ
 [![](http://img.youtube.com/vi/7b4m5V1TWCk/0.jpg)](https://www.youtube.com/watch?v=7b4m5V1TWCk&list=PLAb15H07mjviee1Z8Aj8a7k7_Ixmk7Rxe)
@@ -65,5 +70,6 @@ Belle II実験では、「B中間子」とよばれる重い粒子を人工的�
 暗黒物質（ダークマター）は、宇宙空間に存在することはわかっているが、その正体がわからない謎の物質です。
 「暗黒」というと何やら邪悪なイメージを持たれるかもしれませんが、
 もともとは「暗すぎて観測できない(dark)」という意味から、こう呼ばれるようになりました。
-Belle II実験による精密な測定をもってすれば、暗黒物質の候補となる未知の粒子が
-素粒子反応に介在する様子が観測できるかもしれません。
+Belle II実験における大量のデータを使った精密な測定により、
+暗黒物質の候補となる未知の粒子が素粒子反応に介在する様子が観測できるかもしれません。
+
