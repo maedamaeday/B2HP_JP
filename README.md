@@ -41,11 +41,12 @@
 ---
 # 最先端の素粒子センサーたち
 
-
-
 ## 粒子を余すことなく捉える巨大センサー
 電子・陽電子の衝突で発生した全ての粒子を最先端のテクノロジーを駆使した巨大な装置で捉えます。
 なぜ小さな素粒子をみるためにこのような巨大な装置が必要なのでしょうか?
+
+<img src="http://www.hepl.phys.nagoya-u.ac.jp/~maeday.nagoya/materials/tmp2/BelleII_GroupPhoto.jpg" width="200">
+
 
 ### 超電導電磁石を使って粒子の運動量を測る
 電気を帯びた粒子は磁石の力で曲げることができ（フレミングの左手の法則！)、その曲がり具合から粒子の運動量を知ることができます。
@@ -53,10 +54,15 @@ Belle II測定器では**超電導電磁石**を用い、**1.5テスラ**とい�
 粒子の曲がり具合は半径にして数メートルにまで及ぶため、測定器もこれと同じくらいのサイズが必要になるのです。
 粒子の飛跡は、**ドリフトチェンバー**(中央飛跡検出器, CDC)というガスの中に多数のワイヤーを張った測定器を用いて捉えます。
 
+<img src="http://www.hepl.phys.nagoya-u.ac.jp/~maeday.nagoya/materials/tmp2/EventDisplay.png" width="200">
+
+シミュレーションでみた粒子の飛跡の様子。
+
+
 ### 高精度測定のためのハイテク装置群
 Belle II測定器にはドリフトチェンバーの他に、最先端のテクノロジーを駆使した様々なセンサーが組み込まれています。
 半導体シリコンを使って高精度で粒子の発生点を測定する「**崩壊点検出器**」、電気を帯びていない粒子(主にガンマ線)を捕らえる為の「**カロリーメータ**」、チェレンコフ光と呼ばれる微弱な光を用いて粒子の種類を同定する為の「**粒子識別装置**」等。
-粒子を余すことなく捉え且つ精密な測定を行います。
+これらを組み合わせ粒子を余すことなく捉え且つ精密な測定を行います。
 
 ### 光る日本のテクノロジー
 ドリフトチェンバーで用いる1万本を越えるワイヤーは職人により一本一本手作業で張られれています。
@@ -65,31 +71,36 @@ Belle II測定器にはドリフトチェンバーの他に、最先端のテク
 
 ## 写真で実物を見てみよう
 
-![HAPDonARICH](https://bn1303files.storage.live.com/y4mstnKV6vZDoR6w2a0RUbS7l-xQbr0pHSwVoExtUapXWDC2XU0ESW4oyksJd48g9vv-v7xUbbegIZ6BSg7ZQFr8kWJWjWjjrpl5tKPK8dCTEADaH9MRNPuHJGK4mRWLMb8eaOV0Vb4ygo06dgMsVdn3ywM2XuZpKWImVmyDNMeXejP7SugGgmWWSddbE1eNYzZr52qiifedCdHDCOGygsGpA/ARICH_Nishida_Shota.JPG?psid=1&width=300&height=372 {width=40px})
-![MCPPMT](https://k5aoba.by3302.livefilestore.com/y4pyw5xVs3CAniiiZ_6kiH7uZ27j7rmuKhocAVDfChxaJQtCblOJSRKjDZ4W1m0bQE4tDrhERY6nbAtZW9TtekzZALB_LivnEkQLTcsVzArDmTYltDzEXTxCXwyZMDnWiQulnJR_TrrQUWELiZguhUpv1YSvlNrc71g_nQ7e0K3HfNLj0hXEUbS4LCSTEUWTRdhYeoC6FGhh-CYtW5H4n2Dfg/MCPPMTs.png?psid=1 {width=40px})
+<img src="https://bn1303files.storage.live.com/y4mstnKV6vZDoR6w2a0RUbS7l-xQbr0pHSwVoExtUapXWDC2XU0ESW4oyksJd48g9vv-v7xUbbegIZ6BSg7ZQFr8kWJWjWjjrpl5tKPK8dCTEADaH9MRNPuHJGK4mRWLMb8eaOV0Vb4ygo06dgMsVdn3ywM2XuZpKWImVmyDNMeXejP7SugGgmWWSddbE1eNYzZr52qiifedCdHDCOGygsGpA/ARICH_Nishida_Shota.JPG?psid=1&width=300&height=372" width="200">
+<img src="http://www.hepl.phys.nagoya-u.ac.jp/~maeday.nagoya/materials/tmp2/MCPPMTs.png" width="200">
 
-粒子識別装置で用いる、とても弱い光「チェレンコフ光」を捕らえる為の光センサー。日本の「浜松ホトニクス」製です。
+粒子識別装置で用いる、とても弱い光「チェレンコフ光」を捕らえる為の光センサー。
+スーパーカミオカンデでおなじみの「浜松ホトニクス」製のセンサーが使われます。
 
 
-![CDCwire](https://bn1303files.storage.live.com/y4mTAyL_Kb3ok4ntlCd_LkDnHGBr2Jy-sf-Duyfn0vI93S8Ev94UbWGN3n4EWYlpNfMJF63XfoOBn2xBpVXzxS6luBYuXv43T1H6blUl3Vo8qpjgQRYxv2fLpK8xhEuDKWsQOMk-fYPMbnBv13UQ055JdY8sQawLFLlYRxq4p9Bn2vWNoZ1140t339kHj9_RrLBIHapjiCNmJDk2YQmrx59gg/entry2.JPG?psid=1&width=461&height=346 {width=40px})
+<img src="https://bn1303files.storage.live.com/y4mTAyL_Kb3ok4ntlCd_LkDnHGBr2Jy-sf-Duyfn0vI93S8Ev94UbWGN3n4EWYlpNfMJF63XfoOBn2xBpVXzxS6luBYuXv43T1H6blUl3Vo8qpjgQRYxv2fLpK8xhEuDKWsQOMk-fYPMbnBv13UQ055JdY8sQawLFLlYRxq4p9Bn2vWNoZ1140t339kHj9_RrLBIHapjiCNmJDk2YQmrx59gg/entry2.JPG?psid=1&width=461&height=346" width="200">
 
-ドリフトチェンバーのワーヤー張り作業。1万本を越える数のワイヤーを張力調整しながら一本一本手作業で張っていきます。
+ドリフトチェンバーのワーヤー張り作業。
+1万本を越える数のワイヤーをそれぞれ張力を調整しながら一本一本手作業で張っていきます。
 
-![CDCcable](https://kj83lw.bn1303.livefilestore.com/y4mzpnrlZK3T451TRGxPOuslFb4BLmaI8Xq4eawBdOq2wdJZyGgBWxNjzDIJ1JDPhydJHsYV_0cT4qFem_P636C9h9nmsU0BbpPUU_SHibbGCGoqBhpre3M9wtX7C02k_PLQfwlPYysWhP3FmG-EJLJZmafg9ynmV6Bagpyl0pSpgK54Mcwl7uG0CunawE3HiW5WYmyVJEknJ8TZkmBm8Ry3L51E8VMM8QGWEARG26vMTE/DSC_0859.JPG?psid=1 {width=40px})
+<img src="https://kj83lw.bn1303.livefilestore.com/y4mzpnrlZK3T451TRGxPOuslFb4BLmaI8Xq4eawBdOq2wdJZyGgBWxNjzDIJ1JDPhydJHsYV_0cT4qFem_P636C9h9nmsU0BbpPUU_SHibbGCGoqBhpre3M9wtX7C02k_PLQfwlPYysWhP3FmG-EJLJZmafg9ynmV6Bagpyl0pSpgK54Mcwl7uG0CunawE3HiW5WYmyVJEknJ8TZkmBm8Ry3L51E8VMM8QGWEARG26vMTE/DSC_0859.JPG?psid=1" width="200">
 
-測定器からは大量のデータを読みだすため、ケーブルの膨大な量になります。
+測定器からは大量のデータを読み出すため、ケーブルの膨大な量になります。
 
-![CDCInstall](https://k5aoba.by3302.livefilestore.com/y4p7LmhWCy8y2OxSBfKoK4dcaFkpeAa7YTlsuBU43XApVicyAqiNbzrZlEaBptmntcdPnTkelJXZDshmfJJLaBlJ8gXKnYz9xxICxBqsYCm0U2nP6hWZOemxtBC5AjErJecHx3HkpnEaA7lCXvnFRzRdsZJTJjHiqWql2T44nALsOnQvtEYI8G4zIUV5zJgjgvGLdzYRDMva5HMPJrQabwDCQ/CDCInstall.jpg?psid=1 {width=40px})
+<img src="http://www.hepl.phys.nagoya-u.ac.jp/~maeday.nagoya/materials/tmp2/CDCInstall.jpg" width="200">
 
 ドリフトチェンバーの組み込み作業。
+外側の装置にぶつからないよう、少しずつ慎重に挿入していきます。
 
 
-![TOPLaser](https://kj83lw.bn1303.livefilestore.com/y4mSFUfNmPUv4uBUMvkFpVOhi1Azf8ASEmDI_do68ktxaSEAbdxEL4FSkkd9iI5rhL8WgLZ9K7NjRRoHSm8286at1U31M6kEKWYa5-kSZdC-ZAFjLlwLaI911DfQUT5WDRTHRqujQ1i5I41e47fJGJI3MfR_z4zMotj9WTHp8nk_yD_30HP6x6vovggNazLL5vnnXy-L63VfaH6CvwA8__6MggxJfW0mV13Kzw10GktZx4/s_DSC_0343.JPG?psid=1 {width=40px})
-粒子識別装置の一つ「TOPカウンター」で用いる石英中をレーザー光が伝播していく様子。
+<img src="https://kj83lw.bn1303.livefilestore.com/y4mSFUfNmPUv4uBUMvkFpVOhi1Azf8ASEmDI_do68ktxaSEAbdxEL4FSkkd9iI5rhL8WgLZ9K7NjRRoHSm8286at1U31M6kEKWYa5-kSZdC-ZAFjLlwLaI911DfQUT5WDRTHRqujQ1i5I41e47fJGJI3MfR_z4zMotj9WTHp8nk_yD_30HP6x6vovggNazLL5vnnXy-L63VfaH6CvwA8__6MggxJfW0mV13Kzw10GktZx4/s_DSC_0343.JPG?psid=1" width="200">
+
+粒子識別装置の一つ「TOP(トップ)カウンター」で用いる石英板の中をレーザー光が伝播していく様子。
 石英の表面の荒さは原子5個分ととてもなめらかに研磨されています。
 
 
-![ECLInstall](https://kj83lw.bn1303.livefilestore.com/y4mMU3bKCE-u2tEsLsKjOrRW-TZgRQ1QUSqMxfgF1AaI_F-HusCX9tG0V7rcktP2jW6mD0b0MVLziXLdrLrIB6_B5xwZ-dydBon-jewf2ZHk1Ooc9iETWUoxQU3m81RbQS2m1xps2ene62NtXYoPxcfY84WP_wEGNoHkGYf9iIntOtbHRJ4H-Q4Y3b-h_8nJZ-4YIwsi9j-6uQWJ6FK6rSZPKEMCQFUUaxjDpCGkggOnh8/dsc_2774_Isamu.JPG?psid=1 {width=40px})
+<img src="https://kj83lw.bn1303.livefilestore.com/y4mMU3bKCE-u2tEsLsKjOrRW-TZgRQ1QUSqMxfgF1AaI_F-HusCX9tG0V7rcktP2jW6mD0b0MVLziXLdrLrIB6_B5xwZ-dydBon-jewf2ZHk1Ooc9iETWUoxQU3m81RbQS2m1xps2ene62NtXYoPxcfY84WP_wEGNoHkGYf9iIntOtbHRJ4H-Q4Y3b-h_8nJZ-4YIwsi9j-6uQWJ6FK6rSZPKEMCQFUUaxjDpCGkggOnh8/dsc_2774_Isamu.JPG?psid=1" width="200">
+
 Belle II測定器本体にカロリーメータ(重量5トン!)を取り付ける時の様子。
 
 --- 
