@@ -40,7 +40,10 @@
 
 ---
 # 最先端の素粒子センサーたち
-
+いい写真をここからいくつか選ぶ。タイル表示？
+(https://drive.google.com/drive/folders/0B5Y2V6I07zlGeXpxQ3lxSUpLZDg)
+(http://www.kek.jp/ja/PublicRelations/DigitalLibrary/ImageArchive/)
+(http://kuma.kek.jp/owncloud/index.php/apps/gallery/s/VPxySjADOS0gG35)
 
 
 --- 
